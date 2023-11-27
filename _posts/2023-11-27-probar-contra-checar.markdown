@@ -1,7 +1,3 @@
-List itemProbar y Checar Refinado
-
-* * *
-
 *Esta es una traducción del post titulado “Testing and Checking Refined” que puedes encontrar en el sitio de Jame Bach*
 
 *https://www.satisfice.com/blog/archives/856*
@@ -85,9 +81,7 @@ Los humanos pueden realizar acciones con una *motivación*; las herramientas só
 
 Comprendamos por favor, debemos fomentar el rol de las herramientas en el proceso de probar. A medida que trabajamos hacia un futuro de un proceso de pruebas calificado, poderoso y eficiente, esto requiere una cuidadosa atención tanto al lado humano como al lado mecánico de la ecuación del proceso de pruebas. Las herramientas pueden ayudarnos de muchas maneras, mucho más allá de la automatización de los chequeos. Pero en esto, las herramientas desempeñan un papel de apoyo a las personas calificadas, y el uso no calificado de las herramientas puede tener consecuencias terribles.
 
-<img src=":/assets/probarvschecar.PNG" width="804" height="551">
-
-&nbsp;
+<img src="/assets/probarvschecar.PNG" width="804" height="551">
 
 También te preguntarás por qué no llamamos a los chequeos humanos simplemente " probar". Pues, sí lo hacemos. Ten en cuenta que todo esto ocurre en el ámbito del proceso de probar. Los chequeos humanos forman parte de probar. Sin embargo, pensamos que cuando los humanos intentan explícitamente limitar su pensamiento a los confines de un chequeo -aunque no lo consigan por completo- se trata ahora de una táctica específica y restringida de la prueba y no de toda la actividad de hacer pruebas. Merece una etiqueta propia dentro de lo que es probar.
 
