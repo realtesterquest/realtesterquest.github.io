@@ -2,7 +2,7 @@
 
 [https://www.satisfice.com/blog/archives/856](https://www.satisfice.com/blog/archives/856)
 
-*Al hacer esta traducción intente utilizar un Español lo mas neutral posible pero no puedo garantizar el resultado, así que antes de mandarme a la Inquisición recomiendo leer el post original o podemos tener una conversación sobre el mismo, checa la pagina de “Contacto” para más información.*
+*Al hacer esta traducción intente utilizar un Español lo mas neutral posible pero no puedo garantizar el resultado, así que antes de mandarme a la Inquisición recomiendo leer el post original o podemos tener una conversación sobre el mismo, mandame un correo a andres@testerquest.ca.*
 
 # Probar y Checar Refinado
 
