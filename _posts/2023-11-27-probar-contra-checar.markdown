@@ -12,11 +12,11 @@ Probar y el uso de herramientas son dos cosas que han caracterizado a la humanid
 
 Esta evolución puede ser un proceso insidioso que desafía la forma en que nos etiquetamos a nosotros mismos y a las cosas que nos rodean. Podemos ser testigos de cómo la industrialización transforma a los artesanos ebanistas en fábricas de libreros, y eso puede tentarnos a hablar del papel cambiante del ebanista, pero el trabajador de la fábrica de libreros no es, desde luego, un artesano ebanista que ha sufrido una mutación. Los artesanos de la ebanistería siguen ahí -son menos, es cierto-, muy lejos de las fábricas, produciendo gabinetes caros y bien hechos. El experto ebanista (casi estoy motivado como para buscar en Google si existe una palabra especial para experto en ebanistería) sigue siendo solicitado para resolver problemas que IKEA no puede solucionar. Esta situación se da también en los campos de la ciencia y la medicina. Existe en todas partes: ¿cuáles son las implicaciones de la evolución de las herramientas en el trabajo humano especializado? Cualquiera que busque la excelencia en su oficio debe lidiar con el rol de apropiación de las herramientas.
 
-Por lo tanto, no nos sorprenda que probar, hoy en día, sea un proceso que utiliza herramientas de muchas maneras, y esto cuestiona la idea de un probador.
+Por lo tanto, no nos sorprenda que probar, hoy en día, sea un proceso que utiliza herramientas de muchas maneras, y esto cuestiona la idea de un tester.
 
 Esto siempre ha sido un problema -llevo trabajando y discutiendo sobre esto desde 1987, y la literatura al respecto se remonta al menos hasta 1961-, pero ha ocurrido algo nuevo: la informática móvil y distribuida a gran escala. Sí, esto es nuevo. En mi opinión, es el mayor reto para probar tal y como lo conocemos desde la aparición de los microordenadores. ¿Por qué exactamente es un reto? Porque además de la complejidad de los productos y plataformas, que no ha dejado de crecer durante las últimas décadas, ahora existe un vasto mercado de productos de software que se espera que sean *distribuidos y actualizados instantáneamente*.
 
-Queremos probar un producto rápidamente. ¿Cómo lo hacemos? Es tentador decir: "¡Hagámoslo con herramientas!". Esto ejerce una enorme presión en los probadores calificados y en quienes diseñan herramientas utilizadas por los probadores. Mientras tanto, las personas que no son expertas en pruebas de software tienen visiones de la industrialización de las pruebas similares a las de las primeras fábricas de libreros. Sí, siempre han existido estas presiones, hasta cierto punto. Ahora, el "desarrollo continuo" ha abierto otro frente en esta guerra.
+Queremos probar un producto rápidamente. ¿Cómo lo hacemos? Es tentador decir: "¡Hagámoslo con herramientas!". Esto ejerce una enorme presión en los testers calificados y en quienes diseñan herramientas utilizadas por los testers. Mientras tanto, las personas que no son expertas en pruebas de software tienen visiones de la industrialización de las pruebas similares a las de las primeras fábricas de libreros. Sí, siempre han existido estas presiones, hasta cierto punto. Ahora, el "desarrollo continuo" ha abierto otro frente en esta guerra.
 
 Creemos que el trabajo cognitivo calificado no es trabajo de fábrica. Por eso es más importante que nunca entender qué es probar y cómo puede apoyarse con el uso de herramientas.
 
@@ -93,7 +93,7 @@ Así hemos identificado tres tipos de chequeos:
 
 ***Chequeos Humanos*** *es un proceso de comprobación en el que los humanos reúnen las observaciones y aplican las reglas sin la ayuda de herramientas.*
 
-***Chequeos Mecánicos*** *es un proceso de comprobación en el que determinadas herramientas recopilan las observaciones y aplican las reglas sin intervención humana.*
+***Chequeos con Máquinas*** *es un proceso de comprobación en el que determinadas herramientas recopilan las observaciones y aplican las reglas sin intervención humana.*
 
 ***Chequeos hombre/máquina*** *es un intento del proceso de checar en el que humanos y herramientas interactúan para recoger las observaciones y aplicar las reglas.*
 
