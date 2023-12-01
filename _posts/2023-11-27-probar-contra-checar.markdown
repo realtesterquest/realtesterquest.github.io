@@ -93,7 +93,7 @@ Así hemos identificado tres tipos de chequeos:
 
 ***Chequeos Humanos*** *es un proceso de comprobación en el que los humanos reúnen las observaciones y aplican las reglas sin la ayuda de herramientas.*
 
-***Chequeos Mecánicos*** *es un proceso de comprobación en el que determinadas herramientas recopilan las observaciones y aplican las reglas sin intervención humana.*
+***Chequeos con Máquinas*** *es un proceso de comprobación en el que determinadas herramientas recopilan las observaciones y aplican las reglas sin intervención humana.*
 
 ***Chequeos hombre/máquina*** *es un intento del proceso de checar en el que humanos y herramientas interactúan para recoger las observaciones y aplicar las reglas.*
 
