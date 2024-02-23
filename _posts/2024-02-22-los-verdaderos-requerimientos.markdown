@@ -1,8 +1,9 @@
-Los verdaderos requerimientos
+*Esta es una traducción del post titulado “Los Verdaderos Requerimientos” que puedes encontrar en el sitio de Michael Bolton*
 
 [https://developsense.com/blog/2023/12/the-real-requirements](https://developsense.com/blog/2023/12/the-real-requirements)
 
-* * *
+*Al hacer esta traducción intente utilizar un Español lo mas neutral posible pero no puedo garantizar el resultado, así que antes de mandarme a la Inquisición recomiendo leer el post original o podemos tener una conversación sobre el mismo, mandame un correo a andres@testerquest.ca.*
+
 
 # Los Verdaderos Requerimientos
 
