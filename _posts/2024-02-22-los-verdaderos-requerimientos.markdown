@@ -4,7 +4,7 @@
 
 *Al hacer esta traducción intente utilizar un Español lo mas neutral posible pero no puedo garantizar el resultado, así que antes de mandarme a la Inquisición recomiendo leer el post original o podemos tener una conversación sobre el mismo, mandame un correo a andres@testerquest.ca.*
 
-# Los verdaderos Requerimientos
+# Los Verdaderos Requerimientos
 
 Una de las razones por las que el desarrollo y las pruebas de software son un desastre es porque la gente a menudo nombra las cosas sin cuidado.
 
