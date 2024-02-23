@@ -1,10 +1,10 @@
 Los verdaderos requerimientos
 
-https://developsense.com/blog/2023/12/the-real-requirements
+[https://developsense.com/blog/2023/12/the-real-requirements](https://developsense.com/blog/2023/12/the-real-requirements)
 
 * * *
 
-# Los verdaderos Requerimientos
+# Los Verdaderos Requerimientos
 
 Una de las razones por las que el desarrollo y las pruebas de software son un desastre es porque la gente a menudo nombra las cosas sin cuidado.
 
