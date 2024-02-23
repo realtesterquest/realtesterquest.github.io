@@ -9,4 +9,5 @@ A [James Bach](https://www.satisfice.com/) y [Michael Bolton](https://developsen
 **A la comunidad de RST por su feedback en las traducciones**
 
 Marcos Riveros
+
 Eugene E
